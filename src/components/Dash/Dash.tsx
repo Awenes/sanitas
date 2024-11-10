@@ -15,43 +15,43 @@ const data = [
     amt: 2400,
   },
   {
-    name: 'Monday',
+    name: 'Mon',
     steps: 3000,
     cal: 2598,
     amt: 2210,
   },
   {
-    name: 'Tuesday',
+    name: 'Tue',
     steps: 2000,
     cal: 2000,
     amt: 2290,
   },
   {
-    name: 'Wednesday',
+    name: 'Wed',
     steps: 2780,
     cal: 2208,
     amt: 2000,
   },
   {
-    name: 'Thursday',
+    name: 'Thu',
     steps: 6090,
     cal: 3000,
     amt: 2181,
   },
   {
-    name: 'Friday',
+    name: 'Fri',
     steps: 6290,
     cal: 3300,
     amt: 2500,
   },
   {
-    name: 'Saturday',
+    name: 'Sat',
     steps: 6490,
     cal: 4000,
     amt: 2100,
   },
   {
-    name: 'Sunday',
+    name: 'Sun',
     steps: 7490,
     cal: 5300,
     amt: 2100,
@@ -111,7 +111,7 @@ const Dash = () => {
             <Heading as='h5' color='Black'>Activity</Heading>
             <Text>Weekly</Text>
         </Flex>
-        <Box h={['150px', '200px', '250px']} w={['270px', '80%', '80%']} bg='blue.100' marginLeft='auto' marginRight='auto' borderRadius='10px'>
+        <Box h={['150px', '200px', '250px']} w={['80%', '80%', '80%']} bg='blue.100' marginLeft='auto' marginRight='auto' borderRadius='10px'>
 
             <ResponsiveContainer width="100%" height="100%">
         <LineChart
