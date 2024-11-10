@@ -8,7 +8,7 @@ const Nav = () => {
               <Image src={sanitas} alt="" />
             </Box>
             <Box height="40px" w="40px">
-                <Icon bg='white' fontSize='35px' color='tomato'>
+                <Icon bg='white' fontSize='28px' color='tomato'>
                   <BiLogOut />
                 </Icon>
             </Box>
