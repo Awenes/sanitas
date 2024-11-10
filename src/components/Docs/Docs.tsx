@@ -46,10 +46,10 @@ const Docs = () => {
               <Heading>Vitamin B</Heading>
           </Flex>
         </Stack>
-        <Stack spaceY='3' h='360px' w='300px' bg='black' borderRadius='20px' marginLeft='auto' marginRight='auto' padding='20px'>
+        <Stack spaceY='3' h='300px' w='300px' bg='black' borderRadius='20px' marginLeft='auto' marginRight='auto' padding='20px'>
           <Image
-          h='200px'
-          w='200px'
+          h='150px'
+          w='150px'
           bg='none'
           src={rocket} />
 
