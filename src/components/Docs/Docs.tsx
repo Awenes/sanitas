@@ -16,7 +16,7 @@ const Docs = () => {
             h='70px'
             borderRadius='50%'
             src={kit} />
-              <Heading>What is Alopecia and how to prevent it?</Heading>
+              <Heading>What is Alopecia?</Heading>
           </Flex>
           <Flex gap='20px'>
             <Image 
@@ -24,7 +24,7 @@ const Docs = () => {
             h='70px'
             borderRadius='50%'
             src={pills} />
-              <Heading>What is Antibiotics resistance?</Heading>
+              <Heading>What are Antibiotics?</Heading>
           </Flex>
         </Stack>
         <Stack spaceY='2' padding='20px' h='300px' bg='white' w='300px' marginLeft='auto' marginRight='auto'>
